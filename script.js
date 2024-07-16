@@ -1,4 +1,4 @@
-// Program-1
+// Program-1--Array creation 
 
 // let arr0=[1,2,3,4,5];
 // console.log('score=',arr0);
@@ -8,7 +8,7 @@
 
 
 
-//  //Program-2
+//  //Program-2--Array Manipulation
  
 //  //adding elements
 //  let arr1=[1,2,3,4,5,6];
@@ -28,14 +28,14 @@
 //  console.log(arr4);
 
 
-// //  //Program-3
+// //  //Program-3--Array searching
 
 //  let arr5=[1,2,3,4,5,6];
 //  console.log(arr5.indexOf(2));
 //  console.log(arr5.includes(7));
 
 
-//Program-4
+//Program-4--Array mapping
 
 
 
@@ -44,18 +44,18 @@
 // console.log(arr7)
 
 
-//Program-5
+//Program-5---Array filtering
 
-let arr8=[3,4,6,7,9,12];
-let arr9=[];
-let j=0;
-for(i=0;i<arr8.length;i++){
-    if(arr8[i]%3==0){
-        arr9[j]=arr8[i];
-        j=j+1;
-    }
-}
-console.log(arr8)
+// let arr8=[3,4,6,7,9,12];
+// let arr9=[];
+// let j=0;
+// for(i=0;i<arr8.length;i++){
+//     if(arr8[i]%3==0){
+//         arr9[j]=arr8[i];
+//         j=j+1;
+//     }
+// }
+// console.log(arr8)
 console.log(arr9);
 
  
